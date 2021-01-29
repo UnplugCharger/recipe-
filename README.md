@@ -1,2 +1,2 @@
-# recipe-
+# recipe
 HTML PRACTICE
